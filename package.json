@@ -1,0 +1,20 @@
+{
+  "name": "cookies-challenge",
+  "version": "1.0.0",
+  "description": "Cookies-Server Question #2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cookies-challenge"
+  },
+  "author": "Allyn",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2"
+  }
+}
